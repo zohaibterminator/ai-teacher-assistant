@@ -1,0 +1,11 @@
+transformers
+colpali-engine
+datasets
+qdrant-client
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-groq

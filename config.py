@@ -1,0 +1,1 @@
+COLLECTION_NAME="textbook-embeddings" # collection name for the vectors
